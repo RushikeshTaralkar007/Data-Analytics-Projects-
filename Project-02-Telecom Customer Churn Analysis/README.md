@@ -149,7 +149,7 @@ The dashboard helps answer key business questions such as:
 
 Aspiring Data Analyst | Python | SQL | Excel | Power BI | Azure (AZ-900 Learner)
 
-📧 Email: your-email@example.com
+📧 Email: rushikeshtaralkar07@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/rushikesh-taralkar-89b363313/
 
